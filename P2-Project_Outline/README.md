@@ -7,11 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The app guides me through my daily workouts & *logs my progess*. It shows me which exercise to do during each workout, with how much weight if that is what the workout requires & how long to rest between sets/reps. This takes the guess work out of my training so I can focus on the actual workout
+
 ### Features
-Include Features here
+Personalize your own workouts by adding different exercises
+Multiple users can login to see their own accounts
+Log workout progress
+
 ### Technologies
-Include Technologies here
+JAVA
+Thymeleaf
+Springboot
+Mysql
+MAMP
+React/React Native?
+Bootstrap
+HTML/CSS?
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Will need learn more about bootstrap & React JS
