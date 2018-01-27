@@ -10,8 +10,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 The app guides me through my daily workouts & *logs my progess*. It shows me which exercise to do during each workout, with how much weight if that is what the workout requires & how long to rest between sets/reps. This takes the guess work out of my training so I can focus on the actual workout
 
 ### Features
-Personalize your own workouts by adding different exercises
-Multiple users can login to see their own accounts
+Customize workouts - Personalize your own workouts by adding different exercises
+
+User login - Multiple users can login to see their own accounts
+
 Log workout progress
 
 ### Technologies
