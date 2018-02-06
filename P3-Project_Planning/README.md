@@ -8,7 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* ![Create-Account](https://github.com/andrekmartin/liftoff-assignments/blob/master/P3-Project_Planning/Create-Account.jpg?raw=true)
+* ![HomePage](https://github.com/andrekmartin/liftoff-assignments/blob/master/P3-Project_Planning/HomePage.jpg?raw=true)
+* ![Login](https://github.com/andrekmartin/liftoff-assignments/blob/master/P3-Project_Planning/Login-Page.jpg?raw=true)
 
 ### Project Tracker
 
