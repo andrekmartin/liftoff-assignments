@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[Project Link] (https://github.com/andrekmartin/workout-tracker)
+[Project Link](https://github.com/andrekmartin/workout-tracker)
